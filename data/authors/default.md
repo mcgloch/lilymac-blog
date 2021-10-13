@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Lily Mac
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+occupation: UX Designer
+company: Degree 53
+email: mcgloch@gmail.com
+twitter: https://twitter.com/its_torchic
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/mcgloch
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Lily Mac is an Irish designer working in England. As I've been working remotely for over a year now it's made me reflect on where I want to live and how. My goal is to work remotely from Ireland.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+In order to do that while still maintaining my love of design, I've set up this website to share my thoughts on design systems, Figma, project management and organisation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Knowledge is power.
