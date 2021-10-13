@@ -1,6 +1,6 @@
-import siteMetadata from "@/data/siteMetadata";
-import Link from "next/link";
-import PageTitle from "./PageTitle";
+import siteMetadata from '@/data/siteMetadata'
+import Link from 'next/link'
+import PageTitle from './PageTitle'
 
 export default function Hero() {
   return (
@@ -43,7 +43,7 @@ export default function Hero() {
           <span role="img" aria-label="ireland flag">
             🇮🇪
           </span>
-          .{" "}
+          .{' '}
           <Link href={`mailto:${siteMetadata.email}`}>
             <a
               className="font-medium leading-6 "
@@ -56,5 +56,5 @@ export default function Hero() {
         </p>
       </div>
     </div>
-  );
+  )
 }
